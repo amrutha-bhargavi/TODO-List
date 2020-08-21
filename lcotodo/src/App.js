@@ -84,7 +84,7 @@ class App extends React.Component {
               })}
               <li>
                 <input type="checkbox" name="" id="" />
-                Record youtube videos
+                Finish CS 5343.001 assignment 
                 <button className="btn">Delete</button>
               </li>
             </ul>
